@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-  cout << "Hello World!";
+  cout << "Starting sigma engine 1.0.0.0";
   return 0;
 }
